@@ -2,7 +2,7 @@
 
 # Note: PS1 and umask are already set in /etc/profile. You should not
 # need this unless you want different defaults for root.
-# PS1='${debjaro_chroot:+($debjaro_chroot)}\h:\w\$ '
+# PS1='${puff_chroot:+($puff_chroot)}\h:\w\$ '
 # umask 022
 
 # You may uncomment the following lines if you want `ls' to be colorized:
