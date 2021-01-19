@@ -4,6 +4,6 @@ VERSION_ID="3"
 VERSION="3 (bamboo)"
 VERSION_CODENAME=bamboo
 ID=puffOS
-HOME_URL="https://github.com/PuffOS"
+HOME_URL="https://puffos.github.io"
 SUPPORT_URL="https://t.me/puffos"
 BUG_REPORT_URL="https://t.me/puffos"
