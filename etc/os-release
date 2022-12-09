@@ -1,9 +1,6 @@
-PRETTY_NAME="puff #OSNAME# 3 (bamboo)"
-NAME="puff #OSNAME#"
-VERSION_ID="3"
-VERSION="3 (bamboo)"
-VERSION_CODENAME=bamboo
-ID=puffOS
-HOME_URL="https://puffos.github.io"
-SUPPORT_URL="https://t.me/puffos"
-BUG_REPORT_URL="https://t.me/puffos"
+PRETTY_NAME="Aleyna Tilki Linux"
+NAME="Aleyna Tilki"
+VERSION_ID="31"
+VERSION="31 (aleyna)"
+VERSION_CODENAME=aleyna
+ID=aleyna
