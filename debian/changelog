@@ -1,4 +1,4 @@
-base-files (1.0) elizabeth; urgency=medium
+base-files (25.0) elizabeth; urgency=medium
 
   * Fork from debian
   * Change distro name to elizabeth
