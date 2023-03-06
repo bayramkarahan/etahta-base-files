@@ -1,9 +1,9 @@
-base-files (9999-noupdate) elizabeth; urgency=medium
+base-files (1.0) elizabeth; urgency=medium
 
   * Fork from debian
   * Change distro name to elizabeth
 
- -- Ali Riza KESKIN <parduscix@yandex.ru>  Mon, 16 Nov 2020 23:29:56 +0000
+ -- Bayram KARAHAN <bayramk@gmail.com>  Mon, 16 Nov 2020 23:29:56 +0000
 
 base-files (10.3+deb10u6) buster; urgency=medium
 
